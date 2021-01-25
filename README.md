@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... AI | ML | Open-Source
 - 🌱 I’m currently learning ... Django, NLP
 - 👯 I’m looking to collaborate on ... Open-Source Projects / Hackathons
