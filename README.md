@@ -10,7 +10,10 @@
 ### 🛠️ Languages | Frameworks | Tools
 ![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/python.png)
 ![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/c.png)
-![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/python.png)
-![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/python.png)
-![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/python.png)
+![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/tf.png)
+![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/flask.png)
+![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/heroku.png)
+![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/mysql.png)
+![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/git.png)
+
 
