@@ -7,3 +7,4 @@
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/akhileshthite/)
 
 ### 🛠️ Languages | Frameworks | Tools
+![](https://github.com/AkhileshThite/Portfolio/blob/master/c.png)
