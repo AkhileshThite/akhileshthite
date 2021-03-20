@@ -8,7 +8,7 @@
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/akhileshthite/)
 
 ### 🛠️ Languages | Frameworks | Tools
-![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/python.png)
+![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/python.png =50x50)
 ![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/c.png)
 ![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/tf.png)
 ![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/flask.png)
