@@ -1,4 +1,5 @@
-![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/octocat.png)
+<img src="https://github.com/AkhileshThite/Portfolio/blob/master/Logos/octocat.png" width="50" height="50"></img>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... AI | ML | Data Science
@@ -9,12 +10,11 @@
 
 ### 🛠️ Languages | Frameworks | Tools
 <img src="https://github.com/AkhileshThite/Portfolio/blob/master/Logos/python.png" width="50" height="50"></img>
-![]("https://github.com/AkhileshThite/Portfolio/blob/master/Logos/python.png" =50x50)
-![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/c.png)
-![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/tf.png)
-![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/flask.png)
-![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/heroku.png)
-![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/mysql.png)
-![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/git.png)
+<img src="https://github.com/AkhileshThite/Portfolio/blob/master/Logos/c.png" width="50" height="50"></img>
+<img src="https://github.com/AkhileshThite/Portfolio/blob/master/Logos/tf.png" width="50" height="50"></img>
+<img src="https://github.com/AkhileshThite/Portfolio/blob/master/Logos/flask.png" width="50" height="50"></img>
+<img src="https://github.com/AkhileshThite/Portfolio/blob/master/Logos/heroku.png" width="50" height="50"></img>
+<img src="https://github.com/AkhileshThite/Portfolio/blob/master/Logos/mysql.png" width="50" height="50"></img>
+<img src="https://github.com/AkhileshThite/Portfolio/blob/master/Logos/git.png" width="50" height="50"></img>
 
 
