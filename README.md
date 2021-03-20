@@ -1,3 +1,4 @@
+![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/octocat.png)
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... AI | ML | Data Science
@@ -8,3 +9,8 @@
 
 ### 🛠️ Languages | Frameworks | Tools
 ![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/python.png)
+![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/c.png)
+![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/python.png)
+![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/python.png)
+![](https://github.com/AkhileshThite/Portfolio/blob/master/Logos/python.png)
+
