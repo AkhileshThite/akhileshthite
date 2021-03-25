@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... **Django**
 - 🔗 I’m looking to collaborate on ... **Open-Source Projects | Hackathons**
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... **[LinkedIn](https://www.linkedin.com/in/akhileshthite/) | [Gmail](akhithite@gmail.com)**
+- 📫 How to reach me: ... **[LinkedIn](https://www.linkedin.com/in/akhileshthite/)**
 
 ### 🛠️ Languages | Frameworks | Tools
 <img src="https://github.com/AkhileshThite/Portfolio/blob/master/Logos/python.png" width="40" height="40"></img>
