@@ -13,9 +13,9 @@
 <img src="https://github.com/AkhileshThite/Portfolio/blob/master/Logos/js.png" width="40" height="40"></img>
 <img src="https://github.com/AkhileshThite/Portfolio/blob/master/Logos/flask.png" width="40" height="40"></img>
 <img src="https://github.com/AkhileshThite/Portfolio/blob/master/Logos/heroku.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio/blob/master/Logos/tf.png" width="40" height="40"></img>
 <img src="https://github.com/AkhileshThite/Portfolio/blob/master/Logos/git.png" width="40" height="40"></img>
 <img src="https://github.com/AkhileshThite/Portfolio/blob/master/Logos/mysql.png" width="40" height="40"></img>
-
+<img src="https://github.com/AkhileshThite/Portfolio/blob/master/Logos/tf.png" width="40" height="40"></img>
+<img src="https://github.com/AkhileshThite/Portfolio/blob/master/Logos/scikit.png" width="40" height="40"></img>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshthite&theme=radical)](https://github.com/akhileshthite)
