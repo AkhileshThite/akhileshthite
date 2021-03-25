@@ -16,4 +16,4 @@
 <img src="https://github.com/AkhileshThite/Portfolio/blob/master/Logos/mysql.png" width="40" height="40"></img>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshthite&theme=radical)](https://github.com/akhileshthite/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshthite&theme=merko)](https://github.com/akhileshthite/github-readme-stats)
