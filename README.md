@@ -15,4 +15,4 @@
 <img src="https://github.com/AkhileshThite/Portfolio/blob/master/Logos/git.png" width="40" height="40"></img>
 <img src="https://github.com/AkhileshThite/Portfolio/blob/master/Logos/mysql.png" width="40" height="40"></img>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshthite)](https://github.com/akhileshthite/github-readme-stats)
