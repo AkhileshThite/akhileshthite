@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=akhileshthite)
 ### <img src="https://github.com/AkhileshThite/Portfolio/blob/master/Logos/octocat.png" width="50" height="45"></img> Hi there, I'm Akhilesh 👋
 
 - 🔭 I’m currently working on ... **AI | ML | Data Science**
