@@ -18,6 +18,4 @@
 <img src="https://github.com/AkhileshThite/Portfolio-Projects/blob/master/Logos/tf.png" width="40" height="40"></img>
 <img src="https://github.com/AkhileshThite/Portfolio-Projects/blob/master/Logos/scikit.png" width="40" height="40"></img>
 
-<img src="https://github.com/AkhileshThite/Portfolio-Projects/blob/master/Logos/myavtar.png" width="200" height="200"></img>
-
-![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshthite&theme=radical)
+<img src="https://github.com/AkhileshThite/Portfolio-Projects/blob/master/Logos/myavtar.png" width="200" height="200"></img> ![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshthite&theme=radical)
