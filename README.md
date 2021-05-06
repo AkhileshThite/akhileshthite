@@ -18,4 +18,4 @@
 <img src="https://github.com/AkhileshThite/Portfolio-Projects/blob/master/Logos/tf.png" width="40" height="40"></img>
 <img src="https://github.com/AkhileshThite/Portfolio-Projects/blob/master/Logos/scikit.png" width="40" height="40"></img>
 
-<img src="https://github.com/AkhileshThite/Portfolio-Projects/blob/master/Logos/myavtar.png" width="225" height="225"></img> ![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshthite&theme=radical)
+![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshthite&theme=radical)
