@@ -19,4 +19,4 @@
 <img src="https://github.com/AkhileshThite/Portfolio-Projects/blob/master/Logos/scikit.png" width="40" height="40"></img>
 
 ![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshthite&theme=radical)
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhileshthite&theme=radical" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhileshthite&theme=radical" />
