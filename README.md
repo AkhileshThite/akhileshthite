@@ -18,7 +18,8 @@
 <img src="https://github.com/AkhileshThite/Portfolio-Projects/blob/master/Logos/tf.png" width="40" height="40"></img>
 <img src="https://github.com/AkhileshThite/Portfolio-Projects/blob/master/Logos/scikit.png" width="40" height="40"></img>
 
+
 <p align= "center">
-<img width="49%" src= "https://github-readme-stats.vercel.app/api?username=akhileshthite&theme=radical" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhileshthite&theme=radical" />
+<img width="48%" src= "https://github-readme-stats.vercel.app/api?username=akhileshthite&theme=radical" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhileshthite&theme=radical" />
 <p/>
