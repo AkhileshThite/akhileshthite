@@ -1,4 +1,5 @@
 ### Hi there, I'm Akhilesh 👋
+
 <img align="right" src="https://github.com/AkhileshThite/Portfolio/blob/main/static/images/pizza.gif" width="100"></img>
 
 - 🔭 I’m currently working on ... **AI | ML | Data Science**
