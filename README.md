@@ -5,6 +5,8 @@
 - 🔗 I’m looking to collaborate on ... **Open-Source Projects | Hackathons**
 - 📫 How to reach me: ... **[LinkedIn](https://www.linkedin.com/in/akhileshthite/)**
 
+<img align="right" src="https://github.com/AkhileshThite/Portfolio/blob/main/static/images/pizza.gif" width="100"></img>
+
 ### 🛠️ Languages | Frameworks | Tools
 <img src="https://github.com/AkhileshThite/Portfolio-Projects/blob/master/Logos/python.png" width="40" height="40"></img>
 <img src="https://github.com/AkhileshThite/Portfolio-Projects/blob/master/Logos/c.png" width="40" height="40"></img>
