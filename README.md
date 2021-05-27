@@ -9,17 +9,17 @@
 
 
 ### 🛠️ Languages | Frameworks | Tools
-<img src="https://github.com/AkhileshThite/Portfolio-Projects/blob/master/Logos/python.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio-Projects/blob/master/Logos/c.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio-Projects/blob/master/Logos/html.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio-Projects/blob/master/Logos/css.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio-Projects/blob/master/Logos/js.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio-Projects/blob/master/Logos/flask.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio-Projects/blob/master/Logos/heroku.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio-Projects/blob/master/Logos/git.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio-Projects/blob/master/Logos/mysql.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio-Projects/blob/master/Logos/tf.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio-Projects/blob/master/Logos/scikit.png" width="40" height="40"></img>
+<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/python.png" width="40" height="40"></img>
+<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/c.png" width="40" height="40"></img>
+<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/html.png" width="40" height="40"></img>
+<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/css.png" width="40" height="40"></img>
+<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/js.png" width="40" height="40"></img>
+<img src="https://github.com/AkhileshThite/Portfolio/blob/main/master/Logos/flask.png" width="40" height="40"></img>
+<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/heroku.png" width="40" height="40"></img>
+<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/git.png" width="40" height="40"></img>
+<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/mysql.png" width="40" height="40"></img>
+<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/tf.png" width="40" height="40"></img>
+<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/scikit.png" width="40" height="40"></img>
 
 
 <p align= "center">
