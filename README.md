@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/AkhileshThite/Portfolio/blob/main/static/images/pizza.gif" width="100"></img>
 
 - 🔭 I’m currently working on ... **AI | ML | Web-Dev**
-- 🌱 I’m currently learning ... **JavaScript**
+- 🌱 I’m currently learning ... **Web Dev technologies**
 - 🔗 I’m looking to collaborate on ... **Open-Source Projects | Hackathons**
 - 📫 How to reach me: ... **[LinkedIn](https://www.linkedin.com/in/akhileshthite/)**
 
