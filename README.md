@@ -21,7 +21,7 @@
 <img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/scikit.png" width="40" height="40"></img>
 <img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/heroku.png" width="40" height="40"></img>
 <img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/aws.jpg" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/gcp.jpg" width="40" height="40"></img>
+<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/gcp.png" width="40" height="40"></img>
 
 
 <p align= "center">
