@@ -18,7 +18,7 @@
 <img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/firebase.png" width="40" height="40"></img>
 <img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/flask.png" width="40" height="40"></img>
 <img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/heroku.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/aws.png" width="40" height="40"></img>
+<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/aws.jpg" width="40" height="40"></img>
 <img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/tf.png" width="40" height="40"></img>
 <img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/scikit.png" width="40" height="40"></img>
 
