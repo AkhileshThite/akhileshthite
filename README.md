@@ -2,10 +2,10 @@
 
 <img align="right" src="https://github.com/AkhileshThite/Portfolio/blob/main/static/images/pizza.gif" width="100"></img>
 
-- 🔭 I’m currently working on ... **Web Development | Artificial Intelligence | Blockchain**
-- 🌱 I’m currently learning ... **Blockchain Technologies**
-- 🔗 I’m looking to collaborate on ... **Open-Source Projects | Hackathons**
-- 📫 How to reach me: ... **[LinkedIn](https://www.linkedin.com/in/akhileshthite/)**
+- 🔭 I’m currently working on ➔ **Web Development | Artificial Intelligence | Blockchain**
+- 🌱 I’m currently learning ➔ **Blockchain Technologies**
+- 🔗 I’m looking to collaborate on ➔ **Open-Source Projects | Hackathons**
+- 📫 How to reach me: ➔ **[LinkedIn](https://www.linkedin.com/in/akhileshthite/)**
 
 
 ### 🛠️ Languages | Frameworks | Tools
